@@ -2,4 +2,5 @@ backup/
 logs/
 *.log
 *.gz
+*.swp
 
